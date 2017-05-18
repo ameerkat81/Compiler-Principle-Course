@@ -1,4 +1,4 @@
-# ideas(点子)
+# ideas
 This repo collects ideas occurred in the Compiler Principles course I attend at CQU, and records its implementation.
 
 ## ideas to acomplish
